@@ -67,8 +67,8 @@ group :development, :test do
 end
 
 group :production do
-  gem 'dalli'
-  gem 'newrelic_rpm', '3.14.0.305' # 12/16/2015: LOCKED DOWN
+  gem 'dalli', '2.7.4' # 12/16/2015: LOCKED DOWN
+  gem 'newrelic_rpm'
   gem 'pinglish'
   gem 'rack-tracker'
   gem 'rails_12factor'
