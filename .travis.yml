@@ -8,9 +8,6 @@ rvm:
 env:
   - DB=postgresql
 
-before_install:
-  - gem install bundler
-
 before_script:
   - psql -c 'create database classroom_test;' -U postgres
 
