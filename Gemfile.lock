@@ -152,7 +152,7 @@ GEM
     multi_json (1.11.2)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
-    newrelic_rpm (3.14.1.311)
+    newrelic_rpm (3.14.0.305)
     nokogiri (1.6.7)
       mini_portile2 (~> 2.0.0.rc2)
     oauth2 (1.0.0)
@@ -358,7 +358,7 @@ DEPENDENCIES
   jbuilder
   jquery-turbolinks
   kaminari
-  newrelic_rpm
+  newrelic_rpm (= 3.14.0.305)
   octokit
   omniauth
   omniauth-github
