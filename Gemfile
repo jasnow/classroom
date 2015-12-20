@@ -4,6 +4,8 @@ ruby '2.2.4'
 
 gem 'rails', '4.2.5'
 
+gem 'parser', '2.3.0.pre.6' # WORK-AROUND for Ruby 2.2.4
+
 gem 'airbrake'
 gem 'autoprefixer-rails'
 
