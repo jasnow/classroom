@@ -68,7 +68,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'rubocop',   require: false
   gem 'scss_lint', require: false
-  gem 'spring', '1.5.0' # 12/16/2015: LOCKED DOWN
+  gem 'spring'
 end
 
 group :production do
