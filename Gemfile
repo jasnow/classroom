@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.3.0'
 
-gem 'rails', '4.2.5'
+gem 'rails', '4.2.5.1'
 
 gem 'parser', '2.3.0.pre.6' # WORK-AROUND for Ruby 2.2.4
 
