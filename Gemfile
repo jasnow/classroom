@@ -43,7 +43,7 @@ gem 'puma_worker_killer'
 
 gem 'rack-canonical-host'
 
-gem 'sprockets',  '3.3.1'
+gem 'sprockets'
 gem 'sass-rails', '~> 5.0'
 gem 'sidekiq'
 gem 'sinatra'
