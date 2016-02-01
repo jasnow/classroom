@@ -10,7 +10,7 @@ gem 'airbrake'
 gem 'autoprefixer-rails'
 
 gem 'chewy'
-gem 'coffee-rails', '~> 4.1.0'
+gem 'coffee-rails'
 
 gem 'draper'
 
@@ -44,13 +44,13 @@ gem 'puma_worker_killer'
 gem 'rack-canonical-host'
 
 gem 'sprockets'
-gem 'sass-rails', '~> 5.0'
+gem 'sass-rails'
 gem 'sidekiq'
 gem 'sinatra'
 
 gem 'turbolinks'
 
-gem 'uglifier', '>= 1.3.0'
+gem 'uglifier'
 
 group :development do
   gem 'better_errors'
